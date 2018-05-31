@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Стикер</string>
+
+    <!-- Title of Activity. -->
+    <string name="add_sticker_activity">Новый Стикер</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- DMenu Text. -->
+    <string name="action_settings">Настройки</string>
+
+    <!-- Drawer NavHeader Text. -->
+    <string name="nav_header_text">Стикерс - помошник в твоих делах!</string>
+
+    <!-- Drawer Menu. -->
+    <string name="drawer_category">Категории</string>
+    <string name="drawer_arhive">Архив</string>
+    <string name="drawer_trash_empty">Корзина</string>
+    <string name="drawer_tools">Настройки</string>
+
+    <!-- Drawer Menu Extends. -->
+    <string name="drawer_extends">Дополнительно</string>
+    <string name="drawer_extends_share">Поделиться</string>
+    <string name="drawer_extends_about">О Стикере</string>
+
+    <!-- About Sticker. -->
+    <string name="sticker_about_title">О Стикере</string>
+    <string name="sticker_about">Стикер - это верный помошник в ваших делах. Он может запомнить все что вам
+    нужно и в любом количестве. Удобный интерфейс, простота и ваш менеджер, которые никогда не подведет
+    вас в нужный момент!</string>
+    <string name="read_button">Прочитано</string>
+    <string name="good_day">Хорошего настроения</string>
+
+</resources>

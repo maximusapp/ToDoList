@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+       <!--
+        <item
+            android:id="@+id/nav_category"
+            android:icon="@drawable/shape"
+            android:title="@string/drawer_category" />
+        <item
+            android:id="@+id/nav_archive"
+            android:icon="@drawable/archive"
+            android:title="@string/drawer_arhive" />
+        <item
+            android:id="@+id/nav_trash"
+            android:icon="@drawable/delete_empty"
+            android:title="@string/drawer_trash_empty" />
+
+            -->
+
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/drawer_tools" />
+    </group>
+
+    <item android:title="@string/drawer_extends">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/drawer_extends_share" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/information"
+                android:title="@string/drawer_extends_about" />
+        </menu>
+    </item>
+
+</menu>
